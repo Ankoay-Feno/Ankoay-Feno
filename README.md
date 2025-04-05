@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [Machine-Learning-Karama](https://github.com/YvesLoic5/Machine-Learning-Karama)
 
-- 🌱 I’m currently learning **github action, circleCI**
+- 🌱 I’m currently learning **github action, jenkins**
 
-- 👯 I’m looking to collaborate on [stack-builder](https://gitlab.com/internship4450447/informatiako/-/tree/main/stack_builder?ref_type=heads)
-
-- 👨‍💻 All of my projects are available at [https://gitlab.com/internship4450447](https://gitlab.com/internship4450447)
+- 👨‍💻 All of my projects are available at [link](https://gitlab.com/internship4450447)  and [other_link](https://github.com/Ankoay-Feno?tab=repositories)
 
 - 📫 How to reach me **ankoayfeno@gmail.com**
 
